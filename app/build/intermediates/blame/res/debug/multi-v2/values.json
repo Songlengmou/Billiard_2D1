@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android\\AndroidStudioWorkSpace\\Billiard_2D1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Android\\AndroidStudioWorkSpace\\Billiard_2D1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "120,55",
+                        "endColumns": "48,64",
+                        "endOffsets": "164,115"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,104",
+                        "endColumns": "48,64",
+                        "endOffsets": "99,164"
+                    }
+                }
+            ]
+        }
+    ]
+}
